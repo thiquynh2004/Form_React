@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    text-align: start;
+    background: cadetblue;
+    padding: 15px 15px;
+}
+label.form-label {
+    /* text-align: start; */
+    display: flex;
+}
+button.btn.btn-success {
+    width: 20%;
+    /* padding: 0 15px; */
+    margin-left: 15px;
+}
